@@ -1,4 +1,4 @@
 streamlit
-gtts
-qrcode
-uuid
+pandas
+supabase 
+Create_client
